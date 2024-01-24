@@ -1191,6 +1191,10 @@ a {
 }
 .u-image.u-logo img {
   display: block;
+  width: 120%;
+  height: 120%;
+
+  
 }
 .u-form-horizontal {
   display: flex;
